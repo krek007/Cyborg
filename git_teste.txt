@@ -1,1 +1,2 @@
 Arquivo para dizer que eu estou aprendendo git.
+teste legal e maneiro
